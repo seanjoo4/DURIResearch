@@ -14,5 +14,5 @@
 <h3>Contact Information</h3>
 <ul>
       <li> <a href="mailto: joo21@purdue.edu">Email</a></li>
-      <li>[LinkedIn](https://www.linkedin.com/in/seanjoo4/)</li>
+      <li><a href="https://www.linkedin.com/in/seanjoo4/">LinkedIn</a></li>
 </ul>
