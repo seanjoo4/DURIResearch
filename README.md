@@ -3,5 +3,8 @@
 <p>Project: Protecting Internet Users with Epilepsy or Chronic Migraine from Graphic Based Attacks</p>
 <p>Mentor: Professor Rua William</p>
 <p></p>
-[![DURI Oral Presentation Link](https://github.com/seanjoo4/DURIResearch/blob/master/imgs/titleImage.png)](https://youtu.be/edPSm_a0LWw "DURI Oral Presentation Link")
-
+<div align="left">
+      <a href="https://youtu.be/edPSm_a0LWw">
+         <img src="https://github.com/seanjoo4/DURIResearch/blob/master/imgs/titleImage.png" style="width:100%;">
+      </a>
+</div>
